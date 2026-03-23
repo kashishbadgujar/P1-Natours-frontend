@@ -2,7 +2,7 @@
 
 A responsive and modern **Tour booking landing page** built using **HTML, CSS, and SCSS**, focusing on advanced UI design, animations, and layout techniques.
 
----
+
 
 ## 🚀 Features
 
@@ -13,14 +13,14 @@ A responsive and modern **Tour booking landing page** built using **HTML, CSS, a
 - Card flip effects
 - Popup modal functionality
 
----
+
 
 ## 🛠️ Technologies Used
 
 - HTML5
 - CSS3
 - SCSS (Sass)
----
+
 
 ## 📂 Project Structure
 
@@ -62,10 +62,17 @@ npm run compile:sass
 
 5. Open `index.html` in your browser
 
-   
+
+
 ## 🎯 Learning Outcomes
 
 - Learned advanced SCSS
 - Applied BEM methodology
 - Built responsive layouts
 
+
+## 🚀 Live Working Demo
+```
+https://kashishbadgujar.github.io/P1-Natours-frontend/
+
+```
