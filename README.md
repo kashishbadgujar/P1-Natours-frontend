@@ -25,10 +25,9 @@ A responsive and modern **Tour booking landing page** built using **HTML, CSS, a
 ## 📂 Project Structure
 
 ```
-project/
+P1-Natours/
  ├── index.html
  ├── css/
- │    └── style.css
  ├── sass/
  ├── imgs/
  └── README.md
